@@ -1,0 +1,39 @@
+# ====================================================================
+# Lista de Pacotes para Suspensao Profunda (by sundayyy)
+# ====================================================================
+# Insira os pacotes que voce deseja restringir (um por linha).
+# Linhas iniciadas com '#' sao comentarios e serao ignoradas.
+
+# --- Apps de E-commerce / Compras ---
+com.mercadolibre
+com.shopee.br
+com.contextlogic.wish
+com.shein.mobile
+com.alibaba.aliexpresshd
+com.amazon.mShop.android.shopping
+com.magazineluiza.app
+
+# --- Apps de Transporte / Delivery ---
+com.ubercab
+com.ubercab.eats
+br.com.brainweb.ifood
+com.taxis99
+com.didiglobal.passenger
+
+# --- Streaming e Midia ---
+tv.twitch.android.app
+com.spotify.music
+com.netflix.mediaclient
+com.disney.disneyplus
+com.primevideo.mobile.android
+
+# --- Redes Sociais (Descomente se nao precisar de notificacoes em tempo real) ---
+# com.facebook.katana
+# com.instagram.android
+# com.zhiliaoapp.musically
+# com.twitter.android
+# com.linkedin.android
+
+# --- Ferramentas e Benchmarks ---
+com.speedsoftware.explorer
+com.antutu.ABenchMark

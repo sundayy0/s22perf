@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ADB and device temporary files
+*.log
+*.tmp
+pacotes_sistema.txt
+todos_pacotes.txt
+
+# Editor / IDE
+.vscode/
+.idea/
